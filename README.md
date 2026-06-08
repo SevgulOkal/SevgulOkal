@@ -45,6 +45,7 @@ My goal is to build a professional career in software by combining my interdisci
 ![Wix](https://img.shields.io/badge/Wix-black)
 ![Git](https://img.shields.io/badge/Git-red)
 ![GitHub](https://img.shields.io/badge/GitHub-Aktif-black)
+![AWS](https://img.shields.io/badge/AWS-Web%20Services-orange)
 
 ## 2026 Hedeflerim
 
