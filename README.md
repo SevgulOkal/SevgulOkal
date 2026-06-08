@@ -1,11 +1,28 @@
 
 # Merhaba, ben Sevgül Okal 👋
 
-🎓 Türk Dili ve Edebiyatı mezunuyum.
+Ben Türk Dili ve Edebiyatı lisans mezunuyum. Eğitim hayatım boyunca edindiğim güçlü analiz, iletişim ve araştırma becerilerini teknoloji alanına taşıyarak kariyerime yeni bir yön verdim.
 
-💻 Ankara Üniversitesi Web Tasarımı ve Kodlama öğrencisiyim.
+Şu anda Ankara Üniversitesi’nde Web Tasarımı ve Kodlama eğitimi alıyor, yazılım geliştirme ve web teknolojileri üzerine kendimi sürekli geliştiriyorum. Özellikle frontend geliştirme alanında projeler üretiyor ve modern teknolojileri öğrenmeye odaklanıyorum.
 
-🚀 Yazılım, web geliştirme ve yapay zekâ alanlarında kendimi geliştiriyorum.
+Hedefim; disiplinlerarası bakış açımı, analitik düşünme becerilerimle birleştirerek yazılım alanında profesyonel bir kariyer inşa etmek. Kullanıcı deneyimini merkeze alan, işlevsel ve estetik dijital çözümler geliştirmeyi amaçlıyorum.
+
+🔹 İlgi Alanları: Frontend geliştirme, bulut bilişim, yapay zeka, yazılım projeleri
+🔹 Öğrenmeye, yeni teknolojilere ve ekip çalışmasına daima açık biriyim.
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Hello,
+I have a bachelor's degree in Turkish Language and Literature. I've reoriented my career by applying the strong analytical, communication, and research skills I've acquired throughout my education to the field of technology.
+
+I'm currently studying Web Design and Coding at Ankara University, where I'm continuously improving my skills in software development and web technologies. I'm particularly focused on developing projects in front-end development and learning modern technologies.
+
+My goal is to build a professional career in software by combining my interdisciplinary perspective with my analytical thinking skills. I aim to develop functional and aesthetic digital solutions that focus on the user experience.
+
+**** Interests: Front-end development, cloud computing, artificial intelligence, software projects
+**** I'm always open to learning, new technologies, and teamwork.
 
 ## Hakkımda
 
