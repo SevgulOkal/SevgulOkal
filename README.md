@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**SevgulOkal/SevgulOkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Merhaba, ben Sevgül Okal 👋
 
-Here are some ideas to get you started:
+🎓 Türk Dili ve Edebiyatı mezunuyum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Ankara Üniversitesi Web Tasarımı ve Kodlama öğrencisiyim.
+
+🚀 Yazılım, web geliştirme ve yapay zekâ alanlarında kendimi geliştiriyorum.
+
+## Hakkımda
+
+- 🌱 Python öğreniyorum
+- 🌐 Web geliştirme üzerine çalışıyorum
+- 🤖 Yapay zekâ teknolojilerine ilgi duyuyorum
+- 📚 Her gün yeni şeyler öğrenmeye çalışıyorum
+- 🎯 Güçlü bir yazılım portföyü oluşturmayı hedefliyorum
+
+## Teknolojiler
+
+![Python](https://img.shields.io/badge/Python-Öğreniyorum-blue)
+![HTML5](https://img.shields.io/badge/HTML5-Öğreniyorum-orange)
+![CSS3](https://img.shields.io/badge/CSS3-Öğreniyorum-blue)
+![Git](https://img.shields.io/badge/Git-Öğreniyorum-red)
+![GitHub](https://img.shields.io/badge/GitHub-Aktif-black)
+
+## 2026 Hedeflerim
+
+- ✅ Python öğrenmek
+- ✅ Web projeleri geliştirmek
+- ✅ Yapay zekâ alanında uzmanlaşmak
+- ✅ Açık kaynak projelere katkı sağlamak
+- ✅ Güçlü bir GitHub portföyü oluşturmak
+
+## İletişim
+
+💼 LinkedIn:www.linkedin.com/in/sevgül-okal-97aa38197
+
+---
+
+> "Her gün bir önceki günden daha iyi olmak."
