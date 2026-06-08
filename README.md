@@ -18,15 +18,15 @@
 ## Teknolojiler
 
 ![Python](https://img.shields.io/badge/Python-Öğreniyorum-blue)
-![HTML5](https://img.shields.io/badge/HTML5-Öğreniyorum-orange)
-![CSS3](https://img.shields.io/badge/CSS3-Öğreniyorum-blue)
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey)
 ![PHP](https://img.shields.io/badge/PHP-purple)
 ![C++](https://img.shields.io/badge/C%2B%2B-blue)
 ![WordPress](https://img.shields.io/badge/WordPress-blue)
 ![Wix](https://img.shields.io/badge/Wix-black)
-![Git](https://img.shields.io/badge/Git-Öğreniyorum-red)
+![Git](https://img.shields.io/badge/Git-red)
 ![GitHub](https://img.shields.io/badge/GitHub-Aktif-black)
 
 ## 2026 Hedeflerim
