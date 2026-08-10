@@ -19,6 +19,7 @@ I'm currently studying Web Design and Coding at Ankara University, where I'm con
 My goal is to build a professional career in software by combining my interdisciplinary perspective with my analytical thinking skills. I aim to develop functional and aesthetic digital solutions that focus on the user experience.
 
 **** Interests: Front-end development, cloud computing, artificial intelligence, software projects
+
 **** I'm always open to learning, new technologies, and teamwork.
 
 ## Hakkımda
