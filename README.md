@@ -17,6 +17,7 @@ Hello,
 I have a bachelor's degree in Turkish Language and Literature. I've reoriented my career by applying the strong analytical, communication, and research skills I've acquired throughout my education to the field of technology.
 I'm currently studying Web Design and Coding at Ankara University, where I'm continuously improving my skills in software development and web technologies. I'm particularly focused on developing projects in front-end development and learning modern technologies.
 My goal is to build a professional career in software by combining my interdisciplinary perspective with my analytical thinking skills. I aim to develop functional and aesthetic digital solutions that focus on the user experience.
+
 **** Interests: Front-end development, cloud computing, artificial intelligence, software projects
 **** I'm always open to learning, new technologies, and teamwork.
 
