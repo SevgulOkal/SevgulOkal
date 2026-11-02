@@ -22,12 +22,7 @@ My goal is to build a professional career in software by combining my interdisci
 
 **** I'm always open to learning, new technologies, and teamwork.
 
-## Hakkımda
-- 🌱 Python öğreniyorum
-- 🌐 Web geliştirme üzerine çalışıyorum
-- 🤖 Yapay zekâ teknolojilerine ilgi duyuyorum
-- 📚 Her gün yeni şeyler öğrenmeye çalışıyorum
-- 🎯 Güçlü bir yazılım portföyü oluşturmayı hedefliyorum
+
 
 ## Teknolojiler
 ![Python](https://img.shields.io/badge/Python-Öğreniyorum-blue)
@@ -43,12 +38,7 @@ My goal is to build a professional career in software by combining my interdisci
 ![GitHub](https://img.shields.io/badge/GitHub-Aktif-black)
 ![AWS](https://img.shields.io/badge/AWS-Web%20Services-orange)
 
-## 2026 Hedeflerim
-- ✅ Python öğrenmek
-- ✅ Web projeleri geliştirmek
-- ✅ Yapay zekâ alanında uzmanlaşmak
-- ✅ Açık kaynak projelere katkı sağlamak
-- ✅ Güçlü bir GitHub portföyü oluşturmak
+
 
 ## İletişim
 💼 LinkedIn:www.linkedin.com/in/sevgül-okal-97aa38197
